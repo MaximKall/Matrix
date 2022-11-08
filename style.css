@@ -2,7 +2,7 @@
 
 body {
     margin: 0px;
-    background-image: url(../matrix.png);
+    background-image: url(/matrix.png);
     opacity: 95%;
 }
 
